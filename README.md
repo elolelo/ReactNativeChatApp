@@ -1,4 +1,7 @@
 # ReactNativeChatApp
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/elolelo/ReactNativeChatApp.svg)](https://greenkeeper.io/)
+
 This is a chat app made using React Native
 
 
